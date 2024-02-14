@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+Wed Jan 31 2024 20:25:54 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* deployment.yaml
+
+
+Deleted files:
+
+
+Renamed files:
